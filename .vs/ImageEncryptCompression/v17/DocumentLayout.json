@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\imageencryptcompress\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|d:\\fcis\\year3\\semester 2\\algo\\project\\[1] image encryption and compression\\startup code\\[template] imageencryptcompress\\imageencryptcompress\\compression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\compression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\imageencryptcompress\\imageencryption\u0026decryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\imageencryption\u0026decryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\imageencryptcompress\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\imageencryptcompress\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\imageencryptcompress\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\imageencryptcompress\\imageoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\imageoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\MainForm.cs",
+              "ToolTip": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\MainForm.cs [Design]",
+              "RelativeToolTip": "ImageEncryptCompress\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:39:38.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageEncryption\u0026Decryption.cs",
+              "DocumentMoniker": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\ImageEncryption\u0026Decryption.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\ImageEncryption\u0026Decryption.cs",
+              "ToolTip": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\ImageEncryption\u0026Decryption.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\ImageEncryption\u0026Decryption.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:54:15.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compression.cs",
+              "DocumentMoniker": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\Compression.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\Compression.cs",
+              "ToolTip": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\Compression.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\Compression.cs",
+              "ViewState": "AQIAAKQBAAAAAAAAAIAwwF0CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ImageEncryptCompress",
+              "WhenOpened": "2024-05-01T15:30:46.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\MainForm.cs",
+              "ToolTip": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\MainForm.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\MainForm.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:21:45.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageOperations.cs",
+              "DocumentMoniker": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\ImageOperations.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\ImageOperations.cs",
+              "ToolTip": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\ImageOperations.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\ImageOperations.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:20:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Huffman.cs",
+              "DocumentMoniker": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\Huffman.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\Huffman.cs",
+              "ToolTip": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\Huffman.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\Huffman.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:19:52.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\PriorityQueue.cs",
+              "ToolTip": "D:\\Fcis\\Year3\\Semester 2\\Algo\\Project\\[1] Image Encryption and Compression\\Startup Code\\[TEMPLATE] ImageEncryptCompress\\ImageEncryptCompress\\PriorityQueue.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\PriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:18:01.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
